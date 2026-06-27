@@ -1,5 +1,5 @@
 {
-  "name": "neo-design-patterns-hw-01",
+  "name": "neo-design-patterns-hw-02",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sofiiayarmak/neo-design-patterns-hw-01.git"
+    "url": "git+https://github.com/sofiiayarmak/neo-design-patterns-hw-02.git"
   },
   "keywords": [],
   "author": "Sofiia_Yarmak <sophia.yarmak@gmail.com>",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/sofiiayarmak/neo-design-patterns-hw-01/issues"
+    "url": "https://github.com/sofiiayarmak/neo-design-patterns-hw-02/issues"
   },
-  "homepage": "https://github.com/sofiiayarmak/neo-design-patterns-hw-01#readme",
+  "homepage": "https://github.com/sofiiayarmak/neo-design-patterns-hw-02#readme",
   "devDependencies": {
     "@types/node": "^25.7.0",
     "ts-node": "^10.9.2",
